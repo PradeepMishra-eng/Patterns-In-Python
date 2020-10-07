@@ -1,4 +1,4 @@
-n=int(input("enter the DIGIT"))
+n=int(input("ENTER THE DIGIT : "))
 i=1
 while i<=n:
  j=1
